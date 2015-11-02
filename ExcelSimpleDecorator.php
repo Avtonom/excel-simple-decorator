@@ -79,4 +79,4 @@ class ExcelSimpleDecorator
     }
 }
 //$simple = new ExcelSimpleDecorator('test.xls', 'Excel5');
-//var_dump($simple->getPrice('Test item на русском'), $simple->toArray());
+//var_dump($simple->getPrice('Test item РЅР° СЂСѓСЃСЃРєРѕРј'), $simple->toArray());
